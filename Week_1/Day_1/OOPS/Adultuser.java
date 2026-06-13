@@ -1,6 +1,4 @@
-package Week_1.Day_1.OOPS;
-
-public public class AdultUser implements LibraryUser {
+public class AdultUser implements LibraryUser {
 
     int age;
     String bookType;
